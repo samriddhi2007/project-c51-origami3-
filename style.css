@@ -1,0 +1,47 @@
+h1 {
+    color: darkorchid;
+    border:solid;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+     
+}
+
+.header{
+    background-color: paleturquoise;
+    border:solid;
+   display:flex;
+  justify-content: center;
+
+}
+.dog{
+    background-color: lightpink;
+    display:flex;
+    justify-content: center;
+    border: solid
+}
+.dolphin{
+    background-color: lightsalmon;
+    display:flex;
+    justify-content: center;
+    border: solid
+}
+.abt{
+    background-color:bisque ;
+    border: solid
+}
+.hi{
+    border: solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.dol{
+    border:solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
